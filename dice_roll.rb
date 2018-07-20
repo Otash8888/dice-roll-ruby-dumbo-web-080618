@@ -4,8 +4,7 @@
 
 def roll
  # n = rand(1..6)
- arr = [1,2,3,4,5,6]
-
+arr = [1,2,3,4,5,6]
 arr[rand(0..5)]
 end
 
