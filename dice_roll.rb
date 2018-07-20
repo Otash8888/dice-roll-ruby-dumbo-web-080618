@@ -4,7 +4,7 @@
 
 def roll
   n = rand(1..6)
-  n
+  
 end
 
 roll
