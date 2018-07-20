@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  n = Random.rand(6)
+  n = 1 + Random.rand(5)
 n
 end
 
