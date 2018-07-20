@@ -4,7 +4,6 @@
 
 def roll
   n = rand(1..6)
-  
 end
 
 roll
