@@ -4,13 +4,8 @@
 
 def roll
  # n = rand(1..6)
- arr = []
- l = 0
-5.times do
-  l++
-  arr << l
- 
-end
+ arr = [1,2,3,4,5,6]
+
 arr[rand(0..5)]
 end
 
